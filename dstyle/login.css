@@ -1,0 +1,26 @@
+body {
+	text-align:center;
+	font-size: 0.8em;
+	//background: url('../dimages/degrade.jpg') repeat-x top;
+}
+
+#ppal {
+	background: url('../dimages/login.jpg') no-repeat center;
+	color:  grey;
+	margin: auto;
+	height: 310px;
+	text-align: center;
+	padding-top: 130px;
+}
+	
+a {
+	color: orange;
+}	
+
+form{
+	text-align: center;
+}
+
+table {
+    margin: auto;
+}

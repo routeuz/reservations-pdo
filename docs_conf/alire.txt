@@ -1,0 +1,5 @@
+La base de données est accessible avec les login et mot de passe 'root'.
+Le mot de passe par défaut pour entrer dans l'application est 'azerty' (hashé en md5 dans la base de données). Prévoir un salt.
+Nécessité d'activer l'extension PDO pour PHP et MySQL, sinon configuration par défaut de MAMP.
+
+J'ai choisi cette solution technique en raison de sa facilité de mise en oeuvre et de sa grande présence sur le marché, ce qui permet le support adéquat.

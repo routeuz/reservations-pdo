@@ -1,0 +1,9 @@
+.rubrique{
+	font-style: italic;
+	padding-left: 30px;
+}
+
+td{
+	width: 20%;
+	height: 30px;
+}

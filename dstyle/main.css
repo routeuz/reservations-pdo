@@ -1,0 +1,86 @@
+body{
+	background: url("../dimages/degrade.jpg") repeat-x top left;
+	font-family: "lucida sans" Arial Verdana;
+	font-size: 15px;
+}
+
+
+#navbar{
+	width:700px;
+	height: 15px;
+	margin: auto;
+	text-align: center;
+	color: white;
+	font-family: verdana;
+	word-spacing: 15px;
+	text-decoration: none;
+	padding-bottom: 30px;
+	
+}
+
+#navbar a{
+	color: white;
+	text-decoration: none;
+}
+
+a:hover,span {
+	text-decoration: underline;
+}
+
+
+#corps{
+	
+	margin: auto;
+	width: 800px;
+	height: 750px;
+	font-size: 0.9em;
+	font-family:  "lucida sans" Arial Verdana;
+	background: url("../dimages/870ss.png") no-repeat top center;
+	background-width:120%;
+	
+}
+
+
+#cote img{
+	width: 100px;
+	height: 100px;
+}
+
+#milieu{
+	width: 720px;
+	margin: auto;
+	
+}
+
+#milieu a{
+	color: orange;
+	text-decoration: none;
+
+}
+
+#milieu h2{
+	color: #9D3E0C;
+}
+
+
+#tete{
+	width: 750px;
+	margin: auto;
+	text-align: left;
+	color: orange;
+	font-family: verdana;
+}
+
+.sst{
+	font-style: italic;
+	width: 400px;
+	text-align: right;
+	font-size: 0.8em;
+	
+}
+
+.scro{
+	height: 510px;
+	overflow: auto;
+	padding: 5px;
+}
